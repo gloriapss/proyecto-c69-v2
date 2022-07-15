@@ -1,2 +1,2 @@
-# proyecto-c69-v2
-Proyecto de la clase 69 - V2 Bicicleta
+# PRO-C69-PROYECTO
+Proyecto después de clase de PRO-C69
